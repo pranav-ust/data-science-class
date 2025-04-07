@@ -107,5 +107,5 @@ After you create a pull request:
 ## Contributors
 
 - Pranav A
-<!-- Add your name below this line -->
+- Vinay D
 
