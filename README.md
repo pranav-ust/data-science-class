@@ -110,5 +110,7 @@ After you create a pull request:
 - Aaron
 - Vinay D
 - Enzo L
+- Júlia D
+- Maxence 
 
 
