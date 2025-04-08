@@ -109,8 +109,8 @@ After you create a pull request:
 - Pranav A
 - Aaron
 - Vinay D
+- Paul F
 - Enzo L
 - Júlia D
 - Maxence 
-
 
