@@ -115,3 +115,4 @@ After you create a pull request:
 - Enzo L
 - Júlia D
 - Maxence 
+- Jack 
