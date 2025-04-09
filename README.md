@@ -116,3 +116,4 @@ After you create a pull request:
 - Júlia D
 - Maxence 
 - Jack 
+- Simon
